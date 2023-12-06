@@ -1,1 +1,1 @@
-# neural-networks
+# simple-classifier-neural-net
